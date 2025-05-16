@@ -1,0 +1,6 @@
+@echo off
+echo 🔄 Installing...
+call npm install
+echo 🚀 Starting server...
+call node index.js
+pause
